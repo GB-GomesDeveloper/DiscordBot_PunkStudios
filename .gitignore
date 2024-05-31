@@ -1,0 +1,8 @@
+util/dbBaseReay.js
+Security/dbBase_dados_Ready.js
+Security/Config/informacoes.js
+Security/db/dados.json
+.vscode
+.DS_Store
+._DS_Store
+/node_modules

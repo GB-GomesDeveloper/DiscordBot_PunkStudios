@@ -1,0 +1,25 @@
+{
+  "name": "punkbotnovo",
+  "version": "9.4.6",
+  "description": "",
+  "main": "punk.js",
+  "scripts": {
+    "start": "nodemon punk.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "GomesDev(_Gb_)",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.0.1",
+    "@napi-rs/canvas": "^0.1.44",
+    "canvas": "^2.11.2",
+    "discord-api-types": "^0.37.56",
+    "discord-html-transcripts": "^3.2.0",
+    "discord.js": "^14.13.0",
+    "fs": "^0.0.1-security",
+    "mysql2": "^3.6.1",
+    "path": "^0.12.7",
+    "undici": "^5.27.0"
+  }
+}
